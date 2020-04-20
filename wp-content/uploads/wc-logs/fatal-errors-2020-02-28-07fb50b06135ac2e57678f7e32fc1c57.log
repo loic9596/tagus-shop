@@ -1,0 +1,198 @@
+2020-02-28T05:26:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T05:26:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T05:26:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 463
+
+2020-02-28T05:31:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\vendor\autoload_packages.php à la ligne 107
+
+2020-02-28T05:43:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-pages.php à la ligne 17
+
+2020-02-28T05:43:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-rss.php à la ligne 17
+
+2020-02-28T05:44:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\sources\remote.php à la ligne 7
+
+2020-02-28T05:44:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T05:45:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\schemes.php à la ligne 4
+
+2020-02-28T05:45:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\schemes\base.php à la ligne 4
+
+2020-02-28T05:45:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\elements\section.php à la ligne 4
+
+2020-02-28T05:45:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\sources\base.php à la ligne 8
+
+2020-02-28T05:45:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php à la ligne 225
+
+2020-02-28T05:45:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\background-task-manager.php à la ligne 8
+
+2020-02-28T05:45:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\libraries\geolite2\Reader\Decoder.php à la ligne 5
+
+2020-02-28T05:45:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T05:45:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T05:45:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-requests.php à la ligne 145
+
+2020-02-28T05:46:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\mo.php à la ligne 280
+
+2020-02-28T05:46:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php à la ligne 80
+
+2020-02-28T05:46:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-admin-bar.php à la ligne 15
+
+2020-02-28T05:49:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T05:49:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductTag.php à la ligne 10
+
+2020-02-28T05:49:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\image.php à la ligne 25
+
+2020-02-28T05:49:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\list-table.php à la ligne 22
+
+2020-02-28T05:49:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T05:49:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php à la ligne 225
+
+2020-02-28T05:49:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-checkout-manager\includes\view\frontend\class-wooccm-fields-filters.php à la ligne 3
+
+2020-02-28T05:49:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-checkout-manager\includes\controller\class-wooccm-advanced.php à la ligne 3
+
+2020-02-28T05:49:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-checkout-manager\includes\controller\class-wooccm-suggestions.php à la ligne 3
+
+2020-02-28T05:49:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php à la ligne 9
+
+2020-02-28T05:49:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\utils.php à la ligne 4
+
+2020-02-28T05:49:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T05:49:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php à la ligne 16
+
+2020-02-28T05:56:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:03:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\entry.php à la ligne 43
+
+2020-02-28T06:04:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-02-28T06:04:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-02-28T06:06:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:06:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\functions.php à la ligne 573
+
+2020-02-28T06:06:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version1\class-wc-rest-order-notes-v1-controller.php à la ligne 13
+
+2020-02-28T06:07:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\sidebar.php à la ligne 4
+
+2020-02-28T06:08:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\wp-whatsapp-chat\includes\controllers\ContactController.php à la ligne 3
+
+2020-02-28T06:08:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\wp-whatsapp-chat\includes\controllers\PremiumController.php à la ligne 3
+
+2020-02-28T06:09:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\settings\settings.php à la ligne 9
+
+2020-02-28T06:09:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php à la ligne 7
+
+2020-02-28T06:09:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\settings\system-info\classes\abstracts\base-reporter.php à la ligne 6
+
+2020-02-28T06:09:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\pomo\mo.php on line 315
+
+2020-02-28T06:09:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-checkout-manager\includes\controller\class-wooccm-suggestions.php à la ligne 3
+
+2020-02-28T06:09:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-regenerate-images-request.php à la ligne 12
+
+2020-02-28T06:09:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:10:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\entry.php à la ligne 49
+
+2020-02-28T06:11:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\meta-boxes.php à la ligne 22
+
+2020-02-28T06:11:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php à la ligne 225
+
+2020-02-28T06:12:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\controls\slider.php à la ligne 6
+
+2020-02-28T06:12:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php à la ligne 15
+
+2020-02-28T06:12:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\pomo\mo.php on line 280
+
+2020-02-28T06:12:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-02-28T06:12:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\class-custom-image-header.php à la ligne 14
+
+2020-02-28T06:12:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\post.php à la ligne 20
+
+2020-02-28T06:13:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\l10n.php à la ligne 654
+
+2020-02-28T06:13:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-post-type.php à la ligne 486
+
+2020-02-28T06:13:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\libraries\geolite2\Reader\Decoder.php à la ligne 5
+
+2020-02-28T06:13:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php à la ligne 225
+
+2020-02-28T06:13:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\db-upgrades-manager.php à la ligne 7
+
+2020-02-28T06:13:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\theme.php à la ligne 21
+
+2020-02-28T06:13:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler.php à la ligne 72
+
+2020-02-28T06:14:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:14:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:14:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:14:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-settings-controller.php à la ligne 19
+
+2020-02-28T06:14:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:14:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:14:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:16:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-webhooks.php à la ligne 14
+
+2020-02-28T06:16:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php à la ligne 68
+
+2020-02-28T06:16:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-privacy-data-removal-requests-list-table.php à la ligne 10
+
+2020-02-28T06:16:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-taxonomies.php à la ligne 10
+
+2020-02-28T06:16:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\bookmark.php à la ligne 16
+
+2020-02-28T06:16:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\icon-box.php à la ligne 4
+
+2020-02-28T06:16:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\shortcode.php à la ligne 4
+
+2020-02-28T06:17:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:17:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\mo.php à la ligne 317
+
+2020-02-28T06:17:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:17:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:17:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:18:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:18:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+
+2020-02-28T06:18:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php à la ligne 1078
+
+2020-02-28T06:24:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php à la ligne 1164
+
+2020-02-28T06:28:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\pomo\entry.php on line 86
+
+2020-02-28T06:29:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore_TaxonomyRegistrar.php à la ligne 7
+
+2020-02-28T06:29:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 15
+
+2020-02-28T06:29:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Response\Headers.php à la ligne 13
+
+2020-02-28T06:29:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\mo.php à la ligne 317
+
+2020-02-28T06:29:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\wp-whatsapp-chat\includes\models\Box.php à la ligne 3
+
+2020-02-28T07:21:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\themes\specia\inc\customize\specia-footer-section.php à la ligne 2
+
+2020-02-28T09:54:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php à la ligne 748
+
+2020-02-28T09:54:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2030
+

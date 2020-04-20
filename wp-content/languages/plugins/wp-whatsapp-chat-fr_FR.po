@@ -1,0 +1,494 @@
+# Translation of Plugins - WhatsApp Chat - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WhatsApp Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-22 20:15:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WhatsApp Chat - Stable (latest release)\n"
+
+#: includes/pages/colors.php:19
+msgid "Link"
+msgstr "Lien"
+
+#: includes/pages/colors.php:13
+msgid "Color"
+msgstr "Couleur"
+
+#: includes/pages/colors.php:7
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: includes/pages/welcome.php:29
+msgid "Submit ticket"
+msgstr "Soumettre le ticket"
+
+#: includes/pages/welcome.php:27
+msgid "If you have any doubt or you find any issue don't hesitate to contact us through our ticket system or join our community to meet other WhatsApp Chat users."
+msgstr "Si vous avez un doute ou si vous trouvez n’importe quel problème, n’hésitez pas à nous contacter via notre système de ticket ou rejoignez notre communauté pour rencontrer d’autres utilisateurs de WhatsApp Chat."
+
+#: includes/pages/welcome.php:22
+msgid "View demo"
+msgstr "Voir la démo"
+
+#: includes/pages/welcome.php:20
+msgid "Thank you for choosing our WhatsApp Chat plugin for WordPress! Here you can see our demo and a description about the features we offer in the premium version."
+msgstr "Merci d’avoir choisi notre extension WhatsApp Chat for WordPress ! Vous pouvez ici voir notre démo et une description sur les fonctionnalités que nous offrons dans la version Premium."
+
+#: includes/pages/welcome.php:18
+msgid "Demo"
+msgstr "Démo"
+
+#: includes/pages/welcome.php:15
+msgid "Join us"
+msgstr "Rejoignez-nous"
+
+#: includes/pages/welcome.php:13
+msgid "If you want to get in touch with other WhatsApp Chat users or be aware of our promotional discounts join our community now."
+msgstr "Si vous voulez entrer en contact avec d’autres utilisateurs de WhatsApp chat ou être avisé de nos rabais promotionnels, rejoignez notre communauté maintenant."
+
+#: includes/pages/welcome.php:11
+msgid "Community"
+msgstr "Communauté"
+
+#: includes/pages/welcome.php:6
+msgid "Hello we're QuadLayers! We've recently acquired this plugin and this is the first update. We have worked very much and very hard to release it, and we will do our absolute best to support it and fix all the issues."
+msgstr "Bonjour, nous sommes QuadLayers ! Nous avons récemment acquis cette extension et c’est la première mise à jour. Nous avons travaillé énormément et très dur pour la libérer, et nous ferons de notre mieux pour la supporter et résoudre tous les problèmes."
+
+#: includes/pages/display.php:50
+msgid "Archive"
+msgstr "Archive"
+
+#: includes/pages/display.php:48
+msgid "Select for %s&hellip;"
+msgstr "Sélectionnez pour %s..."
+
+#: includes/pages/display.php:27
+msgid "If you select an option all the other will be excluded"
+msgstr "Si vous sélectionnez une option, toutes les autres seront exclues"
+
+#: includes/pages/display.php:24
+msgid "Search"
+msgstr "Rechercher"
+
+#: includes/pages/display.php:23
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/pages/display.php:22
+msgid "Home"
+msgstr "Accueil"
+
+#: includes/pages/display.php:18
+msgid "Target"
+msgstr "Cible"
+
+#: includes/pages/display.php:13
+msgid "Hide in all devices"
+msgstr "Masquer sur tous les appareils"
+
+#: includes/pages/display.php:12
+msgid "Show in desktop devices"
+msgstr "Afficher sur les appareils de bureau"
+
+#: includes/pages/display.php:11
+msgid "Show in mobile devices"
+msgstr "Afficher sur les appareils mobiles"
+
+#: includes/pages/display.php:10
+msgid "Show in all devices"
+msgstr "Afficher sur tous les appareils"
+
+#: includes/pages/display.php:7
+msgid "Devices"
+msgstr "Appareils"
+
+#: includes/pages/box.php:63
+msgid "Actions"
+msgstr "Actions"
+
+#: includes/pages/colors.php:40 includes/pages/box.php:59
+msgid "Name"
+msgstr "Nom"
+
+#: includes/pages/box.php:57
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/pages/box.php:51
+msgid "Add Contact"
+msgstr "Ajouter le contact"
+
+#: includes/pages/box.php:44
+msgid "Save Contact"
+msgstr "Enregistrer le contact"
+
+#: includes/pages/box.php:36
+msgid "Contacts"
+msgstr "Contacts"
+
+#: includes/pages/box.php:31
+msgid "Write a response text."
+msgstr "Rédiger un texte de réponse."
+
+#: includes/pages/box.php:28
+msgid "Response"
+msgstr "Réponse"
+
+#: includes/pages/box.php:22
+msgid "Footer"
+msgstr "Pied de page"
+
+#: includes/pages/box.php:16
+msgid "Header"
+msgstr "En-tête"
+
+#: includes/pages/box.php:11
+msgid "Disable contact box"
+msgstr "Désactiver la boîte de contact"
+
+#: includes/pages/box.php:10
+msgid "Enable contact box"
+msgstr "Activer la boîte de contact"
+
+#: includes/pages/box.php:7
+msgid "Disable"
+msgstr "Désactiver"
+
+#: includes/pages/premium.php:67
+msgid "Allow your users to type their own messages before send it to the agent phone number."
+msgstr "Permettez à vos utilisateurs de saisir leurs propres messages avant de les envoyer au numéro de téléphone de l’agent."
+
+#: includes/pages/premium.php:65
+msgid "Type user message"
+msgstr "Saisissez le message utilisateur"
+
+#: includes/pages/premium.php:61
+msgid "You can choose the predefined user message that will be sent to the agent phone number."
+msgstr "Vous pouvez choisir le message utilisateur prédéfini qui sera envoyé au numéro de téléphone de l’agent."
+
+#: includes/pages/premium.php:59
+msgid "Custom user message"
+msgstr "Message utilisateur personnalisé"
+
+#: includes/pages/premium.php:55
+msgid "Allow you to set a custom message for each agent that will displayed on the chatbox."
+msgstr "Vous permet de définir un message personnalisé pour chaque agent qui s’affichera sur la boîte de chat."
+
+#: includes/pages/premium.php:53
+msgid "Custom agent message"
+msgstr "Message d’agent personnalisé"
+
+#: includes/pages/premium.php:47
+msgid "WhatsApp chat for WordPress allows you to include a chatbox for each agent where your users can type their first message."
+msgstr "WhatsApp chat for WordPress vous permet d’inclure une boîte de chat pour chaque agent où vos utilisateurs peuvent saisir leur premier message."
+
+#: includes/pages/premium.php:45
+msgid "Chatbox interface"
+msgstr "Interface de boîte de chat"
+
+#: includes/pages/premium.php:28
+msgid "Our plugin allows you to select between more than fourty icons to include in your Whatsapp button."
+msgstr "Notre extension vous permet de choisir entre plus de quarante icônes à inclure dans votre bouton WhatsApp."
+
+#: includes/pages/premium.php:26
+msgid "Custom icons"
+msgstr "Icônes personnalisées"
+
+#: includes/pages/premium.php:22
+msgid "Customize the colors to match site’s theme colors through the WordPress live customizer interface."
+msgstr "Personnalisez les couleurs pour correspondre aux couleurs du thème du site via l’interface de l’outil de personnalisation WordPress en direct."
+
+#: includes/pages/premium.php:20
+msgid "Customize colors"
+msgstr "Personnaliser les couleurs"
+
+#: includes/pages/premium.php:16
+msgid "WhatsApp Chat allows you to include unlimited agent accounts with their names and labels inside the box to provide a direct contact to the different support areas of your site."
+msgstr "WhatsApp chat vous permet d’inclure des comptes agent illimités avec leurs noms et libellés à l’intérieur de la boîte pour fournir un contact direct avec les différentes zones de support de votre site."
+
+#: includes/pages/premium.php:14
+msgid "Multiple agents"
+msgstr "Agents multiples"
+
+#: includes/pages/premium.php:10
+msgid "Get Support"
+msgstr "Obtenir du support"
+
+#: includes/pages/premium.php:9
+msgid "Purchase Now"
+msgstr "Acheter maintenant"
+
+#: includes/pages/premium.php:6
+msgid "Unlock the power of our premium WhatsApp Chat plugin wich allows you to include unlimited agent accounts with their names and labels inside the box to provide a direct contact to the different support areas of your site."
+msgstr "Débloquez la puissance de notre extension WhatsApp chat Premium qui vous permet d’inclure des comptes agent illimités avec leurs noms et libellés à l’intérieur de la boîte pour fournir un contact direct avec les différentes zones de support de votre site."
+
+#: includes/pages/button.php:77
+msgid "Leave a discrete link to developer to help and keep new updates and support."
+msgstr "Laissez un lien discret au développeur pour aider et conserver les nouvelles mises à jour et le support."
+
+#: includes/pages/button.php:75
+msgid "Hide developer link"
+msgstr "Masquer le lien du développeur"
+
+#: includes/pages/button.php:74
+msgid "Show developer link"
+msgstr "Afficher le lien du développeur"
+
+#: includes/pages/button.php:71
+msgid "Discreet link"
+msgstr "Lien discret"
+
+#: includes/pages/button.php:67
+msgid "Message that will automatically appear in the text field of a chat."
+msgstr "Message qui apparaîtra automatiquement dans le champ texte d’un chat."
+
+#: includes/pages/colors.php:22 includes/pages/colors.php:29
+#: includes/pages/colors.php:36 includes/pages/colors.php:43
+#: includes/pages/display.php:72 includes/pages/box.php:52
+#: includes/pages/button.php:58
+msgid "This is a premium feature"
+msgstr "C’est une fonctionnalité Premium"
+
+#: includes/pages/button.php:57
+msgid "Add Icon"
+msgstr "Ajouter une icône"
+
+#: includes/pages/button.php:54
+msgid "Icon"
+msgstr "Icône"
+
+#: includes/pages/button.php:49
+msgid "Full phone number in international format."
+msgstr "Numéro de téléphone complet au format international."
+
+#: includes/pages/button.php:42
+msgid "Customize your text."
+msgstr "Personnalisez votre texte."
+
+#: includes/pages/button.php:39
+msgid "Text"
+msgstr "Texte"
+
+#: includes/pages/button.php:35
+msgid "Switch to change the button position."
+msgstr "Permutez pour modifier la position du bouton."
+
+#: includes/pages/button.php:33
+msgid "Bottom Right"
+msgstr "Inférieur droit"
+
+#: includes/pages/button.php:32
+msgid "Bottom Left"
+msgstr "Inférieur gauche"
+
+#: includes/pages/button.php:31
+msgid "Middle Right"
+msgstr "Au milieu à droite"
+
+#: includes/pages/button.php:30
+msgid "Middle Left"
+msgstr "Au milieu à gauche"
+
+#: includes/pages/button.php:27
+msgid "Position"
+msgstr "Position"
+
+#: includes/pages/button.php:23
+msgid "Add rounded border to the button."
+msgstr "Ajouter une bordure arrondie au bouton."
+
+#: includes/pages/button.php:21
+msgid "Remove rounded border"
+msgstr "Retirer la bordure arrondie"
+
+#: includes/pages/button.php:20
+msgid "Add rounded border"
+msgstr "Ajouter une bordure arrondie"
+
+#: includes/pages/button.php:17
+msgid "Rounded"
+msgstr "Arrondi"
+
+#: includes/pages/button.php:13
+msgid "Switch to change the button layout."
+msgstr "Basculez pour modifier la mise en page du bouton."
+
+#: includes/pages/button.php:11
+msgid "Bubble"
+msgstr "Bulle"
+
+#: includes/pages/button.php:7
+msgid "Layout"
+msgstr "Mise en page"
+
+#: includes/settings.php:383
+msgid "Report a bug"
+msgstr "Signaler un bogue"
+
+#: includes/settings.php:380
+msgid "Yes, of course!"
+msgstr "Oui bien évidemment !"
+
+#: includes/settings.php:377
+msgid "Could you please give it a 5-star rating on WordPress? We know its a big favor, but we've worked very much and very hard to release this great product. Your feedback will boost our motivation and help us promote and continue to improve this product."
+msgstr "Pourriez-vous s’il vous plaît lui donner une note de 5 étoiles sur WordPress ? Nous savons que c’est une grande faveur, mais nous avons beaucoup travaillé et très dur pour libérer ce merveilleux produit. Vos commentaires stimuleront notre motivation et nous aideront à promouvoir et à continuer à améliorer ce produit."
+
+#: includes/settings.php:375
+msgid "Hello! Thank you for choosing the %s plugin!"
+msgstr "Bonjour ! Merci d’avoir choisi l’extension %s !"
+
+#: includes/settings.php:337
+msgid "Remove"
+msgstr "Retirer"
+
+#: includes/settings.php:336
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/settings.php:325
+msgid "Deselect"
+msgstr "Désélectionner"
+
+#: includes/settings.php:309
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: includes/settings.php:302
+msgid "Select icon"
+msgstr "Sélectionner une icône"
+
+#: includes/settings.php:293
+msgid "Close media panel"
+msgstr "Fermer le panneau des médias"
+
+#: includes/pages/colors.php:26 includes/pages/box.php:61
+#: includes/pages/button.php:64 includes/settings.php:276
+msgid "Message"
+msgstr "Message"
+
+#: includes/settings.php:271
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: includes/settings.php:270
+msgid "Enabled"
+msgstr "Activé"
+
+#: includes/pages/box.php:62 includes/settings.php:267
+msgid "Chat"
+msgstr "Chat"
+
+#: includes/pages/colors.php:33 includes/pages/box.php:60
+#: includes/settings.php:261
+msgid "Label"
+msgstr "Libellé"
+
+#: includes/pages/box.php:58 includes/pages/button.php:46
+#: includes/settings.php:260
+msgid "Phone"
+msgstr "Téléphone"
+
+#: includes/settings.php:256
+msgid "Lastname"
+msgstr "Nom"
+
+#: includes/settings.php:254
+msgid "Firstname"
+msgstr "Prénom"
+
+#: includes/settings.php:246
+msgid "Upload"
+msgstr "Téléverser"
+
+#: includes/settings.php:101
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#: includes/settings.php:82
+msgid "Check out our demo"
+msgstr "Découvrez notre démo"
+
+#: includes/settings.php:79
+msgid "Thanks for using WhatsApp Chat! We will do our best to offer you the best and improved communication experience with your users."
+msgstr "Merci d’utiliser WhatsApp Chat ! Nous ferons de notre mieux pour vous offrir la meilleure expérience de communication avec vos utilisateurs."
+
+#: includes/settings.php:61
+msgid "Colors"
+msgstr "Couleurs"
+
+#: includes/settings.php:60
+msgid "Display"
+msgstr "Afficher"
+
+#: includes/settings.php:59
+msgid "Box"
+msgstr "Boîte"
+
+#: includes/pages/button.php:10 includes/settings.php:58
+msgid "Button"
+msgstr "Bouton"
+
+#: includes/settings.php:57
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: includes/pages/display.php:21 includes/pages/display.php:49
+#: includes/pages/display.php:97 includes/settings.php:35
+msgid "Exclude from all"
+msgstr "Exclure de tous"
+
+#: includes/settings.php:27
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/pages/premium.php:4 includes/settings.php:25
+#: includes/settings.php:62
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/defaults.php:57
+msgid "Hello! I'm John from the support team."
+msgstr "Bonjour ! Je suis John de l’équipe de support."
+
+#: includes/pages/welcome.php:25 includes/defaults.php:56
+msgid "Support"
+msgstr "Support"
+
+#: includes/defaults.php:47
+msgid "Write a response"
+msgstr "Ecrire une réponse"
+
+#: includes/defaults.php:34
+msgid "How can I help you?"
+msgstr "Comment puis-je vous aider ?"
+
+#: includes/defaults.php:29
+msgid "Hello! I'm testing the WhatsApp Chat plugin @https://quadlayers.com"
+msgstr "Bonjour ! Je teste l’extension WhatsApp chat @https://quadlayers.com"
+
+#: template/box.php:47
+msgid "Powered by QuadLayers"
+msgstr "Propulsé par QuadLayers"
+
+#. Author URI of the plugin
+msgid "https://quadlayers.com"
+msgstr "https://quadlayers.com"
+
+#. Description of the plugin
+msgid "WhatsApp Chat allows your visitors to contact you or your team through WhatsApp chat with a single click."
+msgstr "WhatsApp Chat permet à vos visiteurs de vous contacter ou de contacter votre équipe via messagerie WhatsApp en un seul clic."
+
+#. Plugin URI of the plugin
+msgid "https://quadlayers.com/portfolio/wordpress-whatsapp-chat/"
+msgstr "https://quadlayers.com/portfolio/wordpress-whatsapp-chat/"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/settings.php:77 includes/settings.php:298
+msgid "WhatsApp Chat"
+msgstr "WhatsApp Chat"
