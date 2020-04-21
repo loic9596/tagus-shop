@@ -87,17 +87,26 @@ defined( 'ABSPATH' ) || exit;
 					<th><?php echo esc_html( WC()->countries->tax_or_vat() ) . $estimated_text; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></th>
 					<td data-title="<?php echo esc_attr( WC()->countries->tax_or_vat() ); ?>"><?php wc_cart_totals_taxes_total_html(); ?></td>
 				</tr>
+
 				<?php
 			}
 		}
 		?>
 
 		<?php do_action( 'woocommerce_cart_totals_before_order_total' ); ?>
+		<tr class="order-total">
+			<th>frais de livraison</th>
+			<td>vous seront envoyés</td>
+
+		</tr>
 
 		<tr class="order-total">
 			<th><?php esc_html_e( 'Total', 'woocommerce' ); ?></th>
 			<td data-title="<?php esc_attr_e( 'Total', 'woocommerce' ); ?>"><?php wc_cart_totals_order_total_html(); ?></td>
+			<td>+ frais de livraison</td>
+
 		</tr>
+		
 
 		<?php do_action( 'woocommerce_cart_totals_after_order_total' ); ?>
 

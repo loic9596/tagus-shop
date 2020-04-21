@@ -23,6 +23,7 @@ defined( 'ABSPATH' ) || exit;
 			<th class="product-name"><?php esc_html_e( 'Product', 'woocommerce' ); ?></th>
 			<th class="product-total"><?php esc_html_e( 'Subtotal', 'woocommerce' ); ?></th>
 		</tr>
+
 	</thead>
 	<tbody>
 		<?php
@@ -56,11 +57,15 @@ defined( 'ABSPATH' ) || exit;
 			<th><?php esc_html_e( 'Subtotal', 'woocommerce' ); ?></th>
 			<td><?php wc_cart_totals_subtotal_html(); ?></td>
 		</tr>
+         <tr class="cart-subtotal"> 
+			<th>Frais de livraison</th>
+			<td>Vous seront envoyés</td>
+		</tr>
 
 		<?php foreach ( WC()->cart->get_coupons() as $code => $coupon ) : ?>
 			<tr class="cart-discount coupon-<?php echo esc_attr( sanitize_title( $code ) ); ?>">
 				<th><?php wc_cart_totals_coupon_label( $coupon ); ?></th>
-				<td><?php wc_cart_totals_coupon_html( $coupon ); ?></td>
+				<td><?php wc_cart_totals_coupon_html( $coupon ); ?></td> 
 			</tr>
 		<?php endforeach; ?>
 
@@ -101,7 +106,7 @@ defined( 'ABSPATH' ) || exit;
 
 		<tr class="order-total">
 			<th><?php esc_html_e( 'Total', 'woocommerce' ); ?></th>
-			<td><?php wc_cart_totals_order_total_html(); ?></td>
+			<td><?php wc_cart_totals_order_total_html(); ?> + frais de livraison</td>
 		</tr>
 
 		<?php do_action( 'woocommerce_review_order_after_order_total' ); ?>
